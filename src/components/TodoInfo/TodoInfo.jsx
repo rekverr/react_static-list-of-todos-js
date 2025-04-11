@@ -1,4 +1,5 @@
 import { UserInfo } from '../UserInfo/UserInfo';
+import './TodoInfo.scss';
 
 export const TodoInfo = ({ todo }) => (
   <article
